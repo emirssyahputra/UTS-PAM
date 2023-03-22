@@ -12,5 +12,5 @@ Jika ingin run Source Code menggunakan Expo, maka ada beberapa hal yang harus di
 1.	Node.js
 2.	Install Expo 
 3.	Install Expo web ( jika ingin dirun ke server local web) 
-4.	Install Android Emulator ( jika ingin dirun kedalam android emulator)
+4.	Install Android Emulator dari Android Studio ( jika ingin dirun kedalam android emulator)
 5.	Install Expo Go di hp android ( jika ingin dibuka di hp android)
